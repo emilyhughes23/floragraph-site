@@ -217,9 +217,8 @@ a:hover {
 }
 
 .main-feature .text-center {
-	background:#83c76f;
-	padding:70px;
-	margin-top:30px;
+	padding: 10px;
+  margin-left: 20%;
 }
 
 .main-feature .text-center h2,p {
