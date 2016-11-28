@@ -49,10 +49,9 @@ a:hover {
 
 .btn-primary {
 	padding: 8px 20px;
-	background: #ED502E;
+	background: #5dcbef;
 	color: #fff;
 	border:none;
-	margin-top: 20px;
 }	
 
 .btn-primary:hover, 
@@ -161,6 +160,7 @@ a:hover {
 
 .box {
 	margin-top:70px;
+  margin-bottom: 30px;
 	text-align:center;	
 	background:#f9f9f9;
 }
@@ -194,12 +194,12 @@ a:hover {
 }
 
 .main-feature {
-	padding-bottom:50px;
-	padding-top:80px;
+	padding-bottom:30px;
+	padding-top:10px;
 }
 
 .main-feature .media {
-	margin-top:30px;
+	margin-top:10px;
 	margin-bottom:30px;
 }
 
@@ -1013,7 +1013,7 @@ ul.social-network li a {
   color: #0077b5;
   
 }
-.footer h3 {
+.footer h4 {
 	color:#fff;
 	margin-bottom:50px;
 	font-size:16px;
