@@ -83,7 +83,7 @@ a:hover {
 
 .btn-default:hover {
 	background-color:#f9f9f9;
-	color:#ED502E;
+	color:#83c76f;
 	border-color: #fff;	
 }
 
@@ -103,7 +103,7 @@ a:hover {
 	color:#333;		
 }
 .navbar-brand h1 span {
-	color: #ED502E;
+	color: #83c76f;
 }
 
 .menu {
@@ -131,7 +131,7 @@ a:hover {
 }
 
 .nav-tabs > li > a:hover {	
-	color: #ED502E;
+	color: #83c76f;
 	border-color: #fff #fff #fff;
 	border-radius:0;
 	background-color:#fff; 
@@ -141,7 +141,7 @@ a:hover {
 	-o-transition: all 0.3s ease-in-out;
 }
 .nav-tabs > li > a.active {
-	color: #ED502E;
+	color: #83c76f;
 	border-radius:0;
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -166,18 +166,22 @@ a:hover {
 }
 .box h4 {
 	text-transform:uppercase;
-	margin-top:50px;
-	margin-bottom:80px;
-	padding:50px;
+	margin-top:20px;
+	padding:20px;
 }
+.box p {
+  color:#000;
+}
+
 .box i {
 	color:#fff;
 	border-radius:50%;
-	padding:20px;
-	background:#ED502E;
+  margin: 20px;
+  padding:20px;
+	background:#199fda;
 }
 .box i:hover {
-	color:#ED502E;
+	color:#199fda;
 	background:#fff;
 }
 
@@ -208,12 +212,12 @@ a:hover {
 .main-feature .media i {
 	border-radius:50%;
 	padding:20px;
-	background:#ED502E;
+	background:#83c76f;
 	color:#fff;
 }
 
 .main-feature .text-center {
-	background:#fD502E;
+	background:#83c76f;
 	padding:70px;
 	margin-top:30px;
 }
